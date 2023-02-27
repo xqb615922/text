@@ -1,0 +1,27 @@
+.Checkout{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: #eee;
+    padding: 20rem;
+}
+
+.Close{
+    font-size: 36rem;
+    color: #000;
+}
+
+
+.Header{
+    border-bottom: 1px solid #f2f2f2;
+    height: 80rem;
+}
+
+.MealsDesc{
+    background-color: #fff;
+    border-radius: 35rem;
+    padding: 0 40rem;
+}
